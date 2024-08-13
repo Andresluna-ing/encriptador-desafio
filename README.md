@@ -45,14 +45,3 @@ Puedes acceder al proyecto en línea en el siguiente enlace:
 ```bash
 git clone https://github.com/tu-usuario/encriptador-desafio.git
 cd encriptador-desafio
-👨‍💻 Desarrollador
-Andrés Luna
-GitHub
-LinkedIn
-
-📄 Licencia
-Este proyecto está bajo la Licencia MIT - mira el archivo LICENSE para más detalles.
-
-📚 Referencias
-Documentación de SweetAlert
-Guía de HTML y CSS de MDN Web Docs
